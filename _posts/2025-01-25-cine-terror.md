@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "El Cine de Terror que No Puedes Perderte"
-date: 2025-02-25
+date: 2025-01-25
 categories: terror peliculas
 ---
 

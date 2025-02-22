@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Historia del Cine: De los Orígenes a la Actualidad"
-date: 2025-02-23
+date: 2025-01-23
 categories: cine historia
 ---
 

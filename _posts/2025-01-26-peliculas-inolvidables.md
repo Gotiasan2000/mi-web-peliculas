@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "¿Qué hace una película inolvidable?"
-date: 2025-02-26
+date: 2025-01-26
 categories: cine clasicos
 ---
 

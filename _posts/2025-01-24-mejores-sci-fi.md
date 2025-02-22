@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Las Mejores Películas de Ciencia Ficción de Todos los Tiempos"
-date: 2025-02-24
+date: 2025-01-24
 categories: ciencia ficcion peliculas
 ---
 

@@ -22,6 +22,10 @@ sass:
   style: :compressed
 ganalytics: UA-113961478-1
 
+collections:
+  posts:
+    output: true
+
 # Authors
 authors:
   sal:
