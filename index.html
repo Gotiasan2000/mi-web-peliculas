@@ -7,7 +7,7 @@ title: Películas
 <div class="movies-container">
   {% for movie in site.data.movies %}
     <div class="movie-card">
-      <img src="{{ movie.poster }}" alt="{{ movie.title }}">
+      <img src="{{ site.baseurl }}{{ movie.poster }}" alt="{{ movie.title }}">
       <h2>{{ movie.title }} ({{ movie.year }})</h2>
       <p><strong>Director:</strong> {{ movie.director }}</p>
     </div>

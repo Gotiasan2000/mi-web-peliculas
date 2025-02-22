@@ -3,7 +3,7 @@
       "title": "Inception",
       "year": 2010,
       "director": "Christopher Nolan",
-      "poster": "../assets/images/inception.jpg"
+      "poster": "/assets/images/inception.jpg"
     },
     {
       "title": "Interstellar",
