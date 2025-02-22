@@ -1,0 +1,51 @@
+[
+    {
+      "title": "Inception",
+      "year": 2010,
+      "director": "Christopher Nolan",
+      "poster": "../assets/images/inception.jpg"
+    },
+    {
+      "title": "Interstellar",
+      "year": 2014,
+      "director": "Christopher Nolan",
+      "poster": "/assets/images/interstellar.jpg"
+    },
+    {
+      "title": "The Dark Knight",
+      "year": 2008,
+      "director": "Christopher Nolan",
+      "poster": "/assets/images/dark-knight.jpg"
+    },
+    {
+      "title": "The Prestige",
+      "year": 2006,
+      "director": "Christopher Nolan",
+      "poster": "/assets/images/prestige.jpg"
+    },
+    {
+      "title": "Dunkirk",
+      "year": 2017,
+      "director": "Christopher Nolan",
+      "poster": "/assets/images/dunkirk.jpg"
+    },
+    {
+      "title": "Memento",
+      "year": 2000,
+      "director": "Christopher Nolan",
+      "poster": "/assets/images/memento.jpg"
+    },
+    {
+      "title": "Batman Begins",
+      "year": 2005,
+      "director": "Christopher Nolan",
+      "poster": "/assets/images/batman-begins.jpg"
+    },
+    {
+      "title": "Tenet",
+      "year": 2020,
+      "director": "Christopher Nolan",
+      "poster": "/assets/images/tenet.jpg"
+    }
+  ]
+  
