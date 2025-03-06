@@ -1,0 +1,19 @@
+---
+layout: default
+title: borrar-alumno
+permalink: /borrar/
+---
+
+<h1>Eliminar Alumno</h1>
+<div class="section">
+    <form action="/borrar-alumno/eliminar" method="post">
+        <label for="id_alumno">Seleccionar Alumno:</label>
+        <select id="id_alumno" name="id_alumno" required>
+            {% for alumnos in site.data.alumnos %}
+                <option value="{{ alumno.id }}">{{ alumnos.nombre }}</option>
+            {% endfor %}
+        </select>
+
+        <button type="submit">Eliminar</button>
+    </form>
+</div>

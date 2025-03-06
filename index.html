@@ -1,15 +1,13 @@
 ---
 layout: default
-title: Películas
+title: ver-alumno
 ---
 
-<h1>🎬 Lista de Películas</h1>
-<div class="movies-container">
-  {% for movie in site.data.movies %}
-    <div class="movie-card">
-      <img src="{{ site.baseurl }}{{ movie.poster }}" alt="{{ movie.title }}">
-      <h2>{{ movie.title }} ({{ movie.year }})</h2>
-      <p><strong>Director:</strong> {{ movie.director }}</p>
+<h1>Lista de Alumnos</h1>
+<div class="section">
+  {% for alumnos in site.data.alumnos %}
+    <div class="a">
+      <h2>{{ alumnos.nombre }} {{ alumnos.nota1 }} {{ alumnos.nota2 }} {{ alumnos.nota3 }}</h2>
     </div>
   {% endfor %}
 </div>
