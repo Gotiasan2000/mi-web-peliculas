@@ -6,6 +6,9 @@ permalink: /media/
 
 <h1>Media de Alumnos</h1>
 <div class="section">
-    <p>No se donde tendria que crear el archivo .py ni vincularlo porque no lo hemos hecho nunca</p>
-    <p>Te creo esta página para que tengas lo de los fondos</p>
+    {% for alumnos in site.data.medias %}
+    <div class="a">
+      <h2>{{ alumnos.nombre }} {{ alumnos.media }}</h2>
+    </div>
+  {% endfor %}
 </div>
